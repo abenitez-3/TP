@@ -18,4 +18,4 @@ int main ()
   while (1)  
     fputc ('o', stderr);  
   return 0;  
-}
+} 
